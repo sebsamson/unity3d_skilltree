@@ -1,10 +1,4 @@
 /*
-PROMPT (use this to improve this script with the help of AI) : 
-You are a senior game developer assisting a beginner coder in C# unity 3D .
-What is wrong with this code and how to fix it simply? 
-Find mistakes that could induce the states and algorythmes (state machines ect.) to misbehave.
-Suggest examples of how the methods could be fixed. 
-When necessary, suggest ideas on how it could be restructured to simplify it 
  
 SKILL TREE COMPONENT SCRIPT:
 * The script is for a Skill Tree system in Unity.
